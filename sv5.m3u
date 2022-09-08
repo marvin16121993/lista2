@@ -4,11 +4,19 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlayl
 #EXTINF:-1 tvg-id="AgapeTV.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Agape_8_2001.png/512px-Agape_8_2001.png" group-title="Undefined",Ágape TV Canal 8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/agapetv8
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-logo="https://i.imgur.com/Iy5jUjV.png" group-title="Undefined",Canal 10 (720p)
-http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
+https://5f2c1b0d880e5.streamlock.net/tves/smil:tves.smil/chunklist_w1648863802_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgODoxNTowNyBQTSZoYXNoX3ZhbHVlPWZwd2xLK0hEZ2lqTllIaUlXeXExRmc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Undefined",Canal 12
 https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 #EXTINF:-1 tvg-id="Canal33.sv" tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="Undefined",Canal 33 (1080p) [Not 24/7]
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w1726947825_b1128000_DVR_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgODowOToxMCBQTSZoYXNoX3ZhbHVlPUF2MlNRVFFMNE5KaDkya0xwNDNnQXc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-logo="https://cdn.mitvstatic.com/channels/sv_23-tv-oriente_m.png" group-title="Undefined",TVO Canal 23 (720p) [Not 24/7]
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w482844560_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgODowMToxNiBQTSZoYXNoX3ZhbHVlPTR5bWVYNWVZb3lONUIzT3R5bU00eWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png" group-title="Undefined",Órbita TV Canal 25 (480p) [Not 24/7]
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ElimTV.sv" tvg-logo="https://i.imgur.com/AonXAXu.png" group-title="Undefined",Elim TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="General",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
 http://209.91.213.10:8088/play/a014
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
@@ -30,8 +38,8 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="TCS.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logotipo-tcs-sv.png" group-title="Undefined",TCS (720p)
-https://secure-video.tcsgo.com/tcshd/index.m3u8
+#EXTINF:-1 tvg-id="TVM.sv" tvg-logo="https://tvm.com.sv/wp-content/uploads/2020/02/TVM2.png" group-title="Undefined",TVM (720p)
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CssFQz0Bwq2sPQGOBPRaatMWX4q4wbWam1pu_R_V5BIOju1F53lr39Ck2d37exc0jRVJZBa9a4-v79LIWOsKciKF-F-BK5b6QYmXBHWZaeQpRYbjuE2mHyEI8BRz2HE703WRnXCRo-4JXy-N5EZw7Fddu6JmRNkEP1UrIDr0R4LgEYb1r8jMzYK-z80_FUrJJZ3lk2X6Q78J4eP_7mj0ml2bg-g8j2S2FFL1o40nyusM3R1eJT61qlKvdz5ClauZGry-20rsiG23F_1h2tJsBWGIvFf3G3EtB5iCudXqzvknr24Gz_jcljddqry3vXY7pFGlFxKtXfLjlCLjXbcieeSd5RsSaXmbqfHLgJaW-qhlhlBmJ_QYYDsB7DEIk2c9Bk9i3kW0QMOVGHCJNReag5f4fcmcEFAN939J2oKoUa8uZTeSCxPY4O_oDa4d4exq5Y_c4jDWFx3TwxeZisvdBR1ksutqYGpFat9lwc6pJ-ho93Rajbm55sZzqwbWZh_uxkUT9qg0NESPFSeaAIJWo3sxkEDa5jdxsnl7SCYr6du6sJNuDKz7uB60PwzN4CfJLxZk0rIkEp6alUpmmfYmKpk3LT1Tk3e07F09RR_MpITP180x6w1vWpv0tRlh0OhCRWCVyI47chH0yy7h9SpHi3b5k83YXQwUxtwxZ1SP59Km5XORylqO-VLokDHHiSTVMyDxsIvx742KJ7ywfXzdU8-w61l2_4Y59OXjrGHmpWw5obNGIk90cAW88w4sGenKDKN2Dk7nWRJ45Q6A-ZpofPwMbKMfFeMEGJz-Q0GF3y-jxWm5aHB3LNQP4CiieKDCvQf3GW60j-_nJyNV-o90cUHEscJzG0wE4gc24VBmHjNXN5HY78ayJwT_bFRvVItsSXQq6GGD72LQycS7rIwUxmaEc5iAGzxybc0RuxbtEFQ24I4-CnNzW54nQluOTBoM4VbLmA8f6gTZFQuAIAEqCXVzLWVhc3QtMTCFAw.m3u8
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-logo="https://i.imgur.com/2X6vgbJ.png" group-title="Undefined",TribunaTV (720p) [Not 24/7]
 https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-logo="https://tvm.com.sv/wp-content/uploads/2020/02/TVM2.png" group-title="News" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36",TVM El Salvador (720p)
@@ -40,12 +48,12 @@ http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="General",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-logo="https://cdn.mitvstatic.com/channels/sv_23-tv-oriente_m.png" group-title="Undefined",TVO Canal 23 (720p) [Not 24/7]
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w482844560_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgODowMToxNiBQTSZoYXNoX3ZhbHVlPTR5bWVYNWVZb3lONUIzT3R5bU00eWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w161667974_b328000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS84LzIwMjIgNzo1NDowMiBQTSZoYXNoX3ZhbHVlPTJFUmVNc3dWNVYzaEVJWEI0NUtyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 #EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://i.imgur.com/JbxpB6M.png" group-title="Undefined",TVX (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canaltvx
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="News",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="General",WOW TV (576p) [Not 24/7]
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal19.sv" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png" group-title="General",Canal 19 (576p) [Not 24/7]
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="ZonaJovenTV.co" tvg-logo="https://landingwebimg.s3.amazonaws.com/uploads/landing_page_business/logo/30003/image-upload1645141554.jpeg" group-title="Undefined",Zona Joven TV
 https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
